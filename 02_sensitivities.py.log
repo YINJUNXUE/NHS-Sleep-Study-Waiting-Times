@@ -1,0 +1,31 @@
+{"analysis_id": "S01", "n_paired_institutions": 71, "rho": 0.473775989268947, "ci_low": 0.25627464083301604, "ci_high": 0.6473257190177998, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S02", "n_paired_institutions": 52, "rho": 0.5340220268078204, "ci_low": 0.2768806290250486, "ci_high": 0.7238990022759154, "bootstrap_status": "OK", "invalid_fraction": 0.0265}
+{"analysis_id": "S02_COMMON52_N20", "n_paired_institutions": 52, "rho": 0.5193374882609066, "ci_low": 0.2587448631578352, "ci_high": 0.7090238463478811, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S03", "n_paired_institutions": 71, "rho": 0.4683433936955063, "ci_low": 0.245980342756312, "ci_high": 0.643364121221491, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S04", "n_paired_institutions": 66, "rho": 0.47458511637616124, "ci_low": 0.2461304382769677, "ci_high": 0.6544124658451898, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S05", "n_paired_institutions": 59, "rho": 0.45978959672706027, "ci_low": 0.21499073316639916, "ci_high": 0.6508795372117314, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S06", "n_paired_institutions": 65, "rho": 0.4937937062937063, "ci_low": 0.26240683938087667, "ci_high": 0.6733033708745901, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S07", "n_paired_institutions": 66, "rho": 0.48005427408412493, "ci_low": 0.24732354369345522, "ci_high": 0.6656463347378506, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S08", "n_paired_institutions": 42, "rho": 0.6339032493314967, "ci_low": 0.3708327978354702, "ci_high": 0.8001137465195013, "bootstrap_status": "OK", "invalid_fraction": 0.0024}
+{"analysis_id": "S09", "n_paired_institutions": 91, "rho": 0.5324255454690238, "ci_low": 0.3570346713556834, "ci_high": 0.6705994551861229, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S10", "n_paired_institutions": 71, "rho": 0.4715291750503018, "ci_low": 0.2517548961110426, "ci_high": 0.6447593280367604, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S11", "n_paired_institutions": 71, "rho": 0.4673038229376257, "ci_low": 0.2508058906233667, "ci_high": 0.6419181066023983, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S12", "n_paired_institutions": 71, "rho": 0.5266264252179744, "ci_low": 0.2973618224635675, "ci_high": 0.6980557845494132, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S13", "n_paired_institutions": 71, "rho": 0.5098256203890006, "ci_low": 0.28197025237703144, "ci_high": 0.6852309140241845, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S14", "n_paired_institutions": 70, "rho": 0.5160878313358412, "ci_low": 0.3060301967675216, "ci_high": 0.6809866394616587, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S15", "n_paired_institutions": 71, "rho": 0.4346411804158282, "ci_low": 0.2121602996371914, "ci_high": 0.6150677250656041, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S16", "n_paired_institutions": 71, "rho": 0.4706237424547283, "ci_low": 0.24907358331147827, "ci_high": 0.6447073062807583, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S19", "n_paired_institutions": 57, "rho": 0.5411589318122894, "ci_low": 0.3032928822199631, "ci_high": 0.7158755368553752, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "SECONDARY_13W", "n_paired_institutions": 71, "rho": 0.4669684775318577, "ci_low": 0.2392733507945286, "ci_high": 0.6530784241730132, "bootstrap_status": "OK", "invalid_fraction": 0.0}
+{"analysis_id": "S18", "n_paired_institutions": 71, "rho": 0.4692152917505029, "ci_low": NaN, "ci_high": NaN, "bootstrap_status": "PRIMARY_BOOTSTRAP_INTERVAL_UNRELIABLE", "invalid_fraction": 0.7889}
+{"analysis_id": "S18_BLOCK3", "n_paired_institutions": 71, "rho": 0.4692152917505029, "ci_low": NaN, "ci_high": NaN, "bootstrap_status": "PRIMARY_BOOTSTRAP_INTERVAL_UNRELIABLE", "invalid_fraction": 0.7299}
+{"analysis_id": "S18_BLOCK12", "n_paired_institutions": 71, "rho": 0.4692152917505029, "ci_low": NaN, "ci_high": NaN, "bootstrap_status": "PRIMARY_BOOTSTRAP_INTERVAL_UNRELIABLE", "invalid_fraction": 0.8049}
+S17 institution deletions completed 10 /71
+S17 institution deletions completed 20 /71
+S17 institution deletions completed 30 /71
+S17 institution deletions completed 40 /71
+S17 institution deletions completed 50 /71
+S17 institution deletions completed 60 /71
+S17 institution deletions completed 70 /71
+S17 institution deletions completed 71 /71
+ALL S01-S19 COMPLETED 23 result rows

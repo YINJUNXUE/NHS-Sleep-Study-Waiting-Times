@@ -1,0 +1,1 @@
+{"analysis_id": "PRIMARY", "n_paired_institutions": 71, "eligible_institution_months": 6152, "training_months": 3919, "validation_months": 2233, "rho": 0.4692152917505029, "ci_low": 0.2465415209051911, "ci_high": 0.643242490614305, "valid_bootstrap": 10000, "bootstrap_attempts": 10000, "status": "OK", "seconds": 5.430700800032355}
